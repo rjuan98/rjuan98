@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Rjuan Andrade!
+# 👋 Oi, eu sou o Rjuan!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rjuan-andrade/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/rjuan98)
